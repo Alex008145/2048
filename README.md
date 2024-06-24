@@ -1,7 +1,16 @@
 # 2048
 
-2048 game project created with JavaScript.
+Известная игра 2048, реализованный на JavaScript.
 
-# Live Prewiev
+Управление на стрелки клавиатуры.
+
+
+## Превью
 
 https://2048-alex008145s-projects.vercel.app/
+
+
+## Разработчик
+
+ Alex008145 ([GitHub Profile Link](https://github.com/Alex008145))
+
